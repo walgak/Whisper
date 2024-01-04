@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540774492642",
+    "project_id": "whispher-12a57",
+    "storage_bucket": "whispher-12a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540774492642:android:bafe949ad80459c70f71bb",
+        "android_client_info": {
+          "package_name": "com.example.whisfer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSSOIFpGlnAC6R5w17ayjRcFGj5PR60jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
